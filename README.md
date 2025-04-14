@@ -147,8 +147,3 @@ transportation_chart.show()
 This project demonstrates how to analyze a company's supply chain using Python. By visualizing key metrics such as sales, revenue, shipping costs, and defect rates, we can identify trends and make data-driven decisions to optimize the supply chain. 
 
 Feel free to explore the dataset and analysis further, and let me know if you have any questions or feedback!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
